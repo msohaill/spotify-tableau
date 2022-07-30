@@ -1,6 +1,6 @@
 # Analyzing Spotify Listening History With Tableau!
 
-In this repository, I've included some files that I used in order to analyze my Spotify listening history using Tableau! Hope you find it useful as well.
+In this repository, I've included some files that I used in order to analyze my Spotify listening history using Tableau Desktop! Hope you find it useful as well. You can view the dashboard I created [here](https://public.tableau.com/app/profile/muhammad.sohail5951/viz/MySpotifyListening_16587328880640/Dashboard1).
 
 ![My Spotify Dashboard](spotify-tableau.png "My Spotify Dashboard")
 
